@@ -9,10 +9,12 @@ Questions/Concerns/Feedback? Reach out to:
 
 #### Jem Cope
 [jem@42.us.org](mailto:jem@42.us.org) 
+
 Slack: Jem
 
 #### Sangita Nath
 [sangita@codeforfun.com](mailto:sangita@codeforfun.com) 
+
 Slack: Sangita
 
 ## Rules & Guidelines
