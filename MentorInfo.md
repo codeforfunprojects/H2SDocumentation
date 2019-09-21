@@ -6,9 +6,7 @@ This is a live document. Some of our processes have just not been documented yet
 
 ## Contact
 
-Questions/Concerns/Feedback?
-
-Reach out to:
+Questions/Concerns/Feedback? Reach out to:
 
 #### Jem Cope
 [jem@42.us.org](mailto:jem@42.us.org) 
