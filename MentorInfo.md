@@ -1,4 +1,5 @@
 
+<a href="https://www.codeforfun.com/h2s"><img src="https://raw.githubusercontent.com/codeforfunprojects/H2SDocumentation/master/images/H2SGreenCompressed(Web).png" align="center" alt="HackHighSchool Logo" width="200" height="200"></a>
 
 # 2019-2020 - Semester 1 - Mentors Info Hub
 This is a live document. Some of our processes have just not been documented yet -- but I'm working on it!
