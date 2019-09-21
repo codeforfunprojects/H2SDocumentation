@@ -57,7 +57,7 @@ You can see which group you’re assigned to on Trello. Group assignments are fl
 
 ## First Time Students
 
-1.) [Help them set up Intra](#How-to-set-up-Intra-(Computer-Password-is-same)
+1.) [Help them set up Intra](#How-to-set-up-Intra-(Computer-Password-is-same))
 
 2.) [Help them set up Slack](#How-to-join-Slack)
 
