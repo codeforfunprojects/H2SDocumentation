@@ -129,14 +129,14 @@ All mentors and H2S students should be on Slack.
 Check-in computers have InsomniaX installed on the desktop. You can use this to keep the computers from going to sleep. Computers that go to sleep require time to boot back up -- this can be a big problem when we’re handling a large line of people.
 
 ## Being a good mentor
-0. Make sure you are set up on Slack [per the mentor instructions above.](#How-to-join-Slack)
+0. Make sure you are set up on Slack [per the mentor instructions above.](#How-to-join-Slack). Please be sure to pay attention to the mentor channel.
 
 1.  Enforce the rules
-    
 
     a.  No drinks on desks -- put them on the floor.
     
     b.  No food at the computers. They can eat at the couches in the middle of the lab where we can see them.
     
+2.  Circle time every day at 2pm. This is a great way to break the ice with your students, bring in new students to the group, see how everyone is doing, and encourage them to work together.
 
-2.  Email the parents at regular intervals. (More info coming soon.)
+3. Email the parents at regular intervals. (More info coming soon.)
