@@ -59,6 +59,12 @@ Semester 1 Google Calendar (For easy reminders): [https://calendar.google.com/ca
 
 2.) [Help them set up Slack](#How-to-join-Slack)
 
+3.) Start working on the first project -- Hello 42. This also contains some information about the branches
+
+4.) Select a topic branch https://forms.gle/PMkAQEFRwM43dC698
+
+5.) Sit with mentor for your topic.
+
 ## How to set up Intra
 (Computer Password is same)
 Students should get an email with their intra username. It often ends up in their Junk/Spam folder. They can change the password on their phone or a mentor’s computer.
