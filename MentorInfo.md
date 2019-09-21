@@ -40,6 +40,8 @@ You can see which group you’re assigned to on Trello. Group assignments are fl
 
 ## Important Dates - Fall Semester 2019
 
+Semester 1 Google Calendar (For easy reminders): [https://calendar.google.com/calendar?cid=OGpjMDd1cjByMmhybGFjOHY5bmlmNjVhMHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ](https://calendar.google.com/calendar?cid=OGpjMDd1cjByMmhybGFjOHY5bmlmNjVhMHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
 | Event | Date |
 |--|--|
 | Student Fall Semester | Sept 14, 2019 - December 14, 2019 |
@@ -50,10 +52,6 @@ You can see which group you’re assigned to on Trello. Group assignments are fl
 | Fall Break | November 30 |
 |Student Showcase  | Dec 14 |
 |Winter Break  | Dec 21, 28 & Jan 4 |
-
-## Semester 1 Google Calendar (For easy reminders)
-
-[https://calendar.google.com/calendar?cid=OGpjMDd1cjByMmhybGFjOHY5bmlmNjVhMHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ](https://calendar.google.com/calendar?cid=OGpjMDd1cjByMmhybGFjOHY5bmlmNjVhMHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ## First Time Students
 
