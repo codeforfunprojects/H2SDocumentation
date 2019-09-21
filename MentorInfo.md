@@ -57,12 +57,12 @@ You can see which group you’re assigned to on Trello. Group assignments are fl
 
 ## First Time Students
 
-1.) [Help them set up Intra](#How-to-set-up-Intra-(Computer-Password-is-same))
+1.) [Help them set up Intra](#How-to-set-up-Intra)
 
 2.) [Help them set up Slack](#How-to-join-Slack)
 
-## How to set up Intra (Computer Password is same)
-
+## How to set up Intra
+(Computer Password is same)
 Students should get an email with their intra username. It often ends up in their Junk/Spam folder. They can change the password on their phone or a mentor’s computer.
 
 1.  They will need to set their password at [http://intra.42.fr](http://intra.42.fr/)
