@@ -12,6 +12,8 @@ Questions/Concerns/Feedback? Reach out to:
 
 Slack: Jem
 
+--
+ 
 #### Sangita Nath
 [sangita@codeforfun.com](mailto:sangita@codeforfun.com) 
 
@@ -55,9 +57,9 @@ You can see which group you’re assigned to on Trello. Group assignments are fl
 
 ## First Time Students
 
-1.) Help them set up Intra
+1.) [Help them set up Intra](#How-to-set-up-Intra-(Computer-Password-is-same)
 
-2.) Help them set up Slack
+2.) [Help them set up Slack](#How-to-join-Slack)
 
 ## How to set up Intra (Computer Password is same)
 
@@ -129,6 +131,7 @@ All mentors and H2S students should be on Slack.
 Check-in computers have InsomniaX installed on the desktop. You can use this to keep the computers from going to sleep. Computers that go to sleep require time to boot back up -- this can be a big problem when we’re handling a large line of people.
 
 ## Being a good mentor
+0. Make sure you are set up on Slack [per the mentor instructions above.](#How-to-join-Slack)
 
 1.  Enforce the rules
     
