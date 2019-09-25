@@ -74,7 +74,11 @@ Students should get an email with their intra username. It often ends up in thei
 
        a. Click “Forgot or Change Password”
     
-    b. Enter their username, not their email. Password rules: 12 characters including uppercase, lowercase, numbers, and special characters. The only special characters allowed are `~@*_.-+:{}[]` and you cannot put two special characters together at the end.
+    b. Enter their username, not their email.
+    
+    c. They should receive an email with password reset instructions. Often this will go to junk/spam folder. They usually need to take it out of junk/spam to be able to actually click the link.
+    
+    d. Password rules: 12 characters including uppercase, lowercase, numbers, and special characters. The only special characters allowed are `~@*_.-+:{}[]` and you cannot put two special characters together at the end.
     
 
 3.  It’s a great idea for mentors to show students how the intra works. Cover:
