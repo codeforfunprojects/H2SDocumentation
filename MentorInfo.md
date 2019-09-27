@@ -3,6 +3,9 @@
 
 # 2019-2020 - Semester 1 - Mentors Info Hub
 
+![Zone 2 Map](https://raw.githubusercontent.com/codeforfunprojects/H2SDocumentation/master/images/H2SMap%202019.2020.png)
+
+
 ## Contact
 
 Questions/Concerns/Feedback? Reach out to:
