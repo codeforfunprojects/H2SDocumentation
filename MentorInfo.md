@@ -1,20 +1,22 @@
-
+<p align="center"> 
+<a href="https://www.codeforfun.com/h2s"><img src="https://raw.githubusercontent.com/codeforfunprojects/H2SDocumentation/master/images/H2SGreenCompressed(Web).png" alt="HackHighSchool Logo" width="200" height="200"></a></p>
 
 # 2019-2020 - Semester 1 - Mentors Info Hub
-This is a live document. Some of our processes have just not been documented yet -- but I'm working on it!
 
 ## Contact
 
-Questions/Concerns/Feedback?
-
-Reach out to:
+Questions/Concerns/Feedback? Reach out to:
 
 #### Jem Cope
 [jem@42.us.org](mailto:jem@42.us.org) 
+
 Slack: Jem
 
+--
+ 
 #### Sangita Nath
 [sangita@codeforfun.com](mailto:sangita@codeforfun.com) 
+
 Slack: Sangita
 
 ## Rules & Guidelines
@@ -38,6 +40,8 @@ You can see which group you’re assigned to on Trello. Group assignments are fl
 
 ## Important Dates - Fall Semester 2019
 
+Semester 1 Google Calendar (For easy reminders): [https://calendar.google.com/calendar?cid=OGpjMDd1cjByMmhybGFjOHY5bmlmNjVhMHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ](https://calendar.google.com/calendar?cid=OGpjMDd1cjByMmhybGFjOHY5bmlmNjVhMHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
 | Event | Date |
 |--|--|
 | Student Fall Semester | Sept 14, 2019 - December 14, 2019 |
@@ -49,18 +53,20 @@ You can see which group you’re assigned to on Trello. Group assignments are fl
 |Student Showcase  | Dec 14 |
 |Winter Break  | Dec 21, 28 & Jan 4 |
 
-## Semester 1 Google Calendar (For easy reminders)
-
-[https://calendar.google.com/calendar?cid=OGpjMDd1cjByMmhybGFjOHY5bmlmNjVhMHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ](https://calendar.google.com/calendar?cid=OGpjMDd1cjByMmhybGFjOHY5bmlmNjVhMHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-
 ## First Time Students
 
-1.) Help them set up Intra
+1.) [Help them set up Intra](#How-to-set-up-Intra)
 
-2.) Help them set up Slack
+2.) [Help them set up Slack](#How-to-join-Slack)
 
-## How to set up Intra (Computer Password is same)
+3.) Start working on the first project -- Hello 42. This also contains some information about the branches
 
+4.) Select a topic branch https://forms.gle/PMkAQEFRwM43dC698
+
+5.) Sit with mentor for your topic.
+
+## How to set up Intra
+(Computer Password is same)
 Students should get an email with their intra username. It often ends up in their Junk/Spam folder. They can change the password on their phone or a mentor’s computer.
 
 1.  They will need to set their password at [http://intra.42.fr](http://intra.42.fr/)
@@ -68,7 +74,11 @@ Students should get an email with their intra username. It often ends up in thei
 
        a. Click “Forgot or Change Password”
     
-    b. Enter their username, not their email. Password rules: 12 characters including uppercase, lowercase, numbers, and special characters. The only special characters allowed are `~@*_.-+:{}[]` and you cannot put two special characters together at the end.
+    b. Enter their username, not their email.
+    
+    c. They should receive an email with password reset instructions. Often this will go to junk/spam folder. They usually need to take it out of junk/spam to be able to actually click the link.
+    
+    d. Password rules: 12 characters including uppercase, lowercase, numbers, and special characters. The only special characters allowed are `~@*_.-+:{}[]` and you cannot put two special characters together at the end.
     
 
 3.  It’s a great idea for mentors to show students how the intra works. Cover:
@@ -129,13 +139,14 @@ All mentors and H2S students should be on Slack.
 Check-in computers have InsomniaX installed on the desktop. You can use this to keep the computers from going to sleep. Computers that go to sleep require time to boot back up -- this can be a big problem when we’re handling a large line of people.
 
 ## Being a good mentor
+0. Make sure you are set up on Slack [per the mentor instructions above.](#How-to-join-Slack). Please be sure to pay attention to the mentor channel.
 
 1.  Enforce the rules
-    
 
     a.  No drinks on desks -- put them on the floor.
     
     b.  No food at the computers. They can eat at the couches in the middle of the lab where we can see them.
     
+2.  Circle time every day at 2pm. This is a great way to break the ice with your students, bring in new students to the group, see how everyone is doing, and encourage them to work together.
 
-2.  Email the parents at regular intervals. (More info coming soon.)
+3. Email the parents at regular intervals. (More info coming soon.)
