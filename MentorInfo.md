@@ -3,8 +3,13 @@
 
 # 2019-2020 - Semester 1 - Mentors Info Hub
 
+
+## H2S Zone 2 Map
 ![Zone 2 Map](https://raw.githubusercontent.com/codeforfunprojects/H2SDocumentation/master/images/H2SMap%202019.2020.png)
 
+## Student Groups
+(Available only to Mentors. If you need access message Jem.)
+https://docs.google.com/spreadsheets/d/1YdlxqyebbP2X1l3WW6Zdtc03BeagMY2LAfq-rt2VGz8/edit?usp=sharing
 
 ## Contact
 
