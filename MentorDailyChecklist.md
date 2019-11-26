@@ -1,4 +1,5 @@
 # Zone Setup
+0. Sign into http://h2s42.slack.com/
 1. Make sure you have your nametag & lanyard.
 2. Clear zone of Cadets.
 3. Put out lanyards & lay out student name tags on the empty end of Row 4 (Near Check in) in A-Z order by first name.
